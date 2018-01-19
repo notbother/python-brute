@@ -6,7 +6,7 @@
 """
 ___________________________________
 #                                 #
-#       PyBrute por d3z3n0v3      #
+#         PyBrute por Raul        #
 #         Versão Python 3         #
 #        Copia não comédia        #
 #_________________________________#
